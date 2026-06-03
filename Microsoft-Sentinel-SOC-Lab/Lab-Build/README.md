@@ -98,7 +98,7 @@ Created a Data Collection Rule to ingest Windows Security Events for both VMS
 ![Data Collection Rule](screenshots/09-data-collection-rule.png)
 
 
-![Data Collection Rule](screenshots/09.1-collection-forVMS.png)
+![Data Collection Rule](screenshots/09.1-collection-for VMS.png)
 
 ---
 
@@ -110,7 +110,7 @@ Created a Data Collection Rule to ingest Windows Security Events for both VMS
 
 Verified successful log ingestion through Heartbeat events and Security Event logs.
 
-![Validation](screenshots/10-heartbeat validation.png)
+![Validation](screenshots/10-heartbeatvalidation.png)
 
 
 -----
